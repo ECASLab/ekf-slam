@@ -1,0 +1,6 @@
+perf.data
+build/
+devel/
+install/
+log/
+*.bag
